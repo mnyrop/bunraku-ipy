@@ -4,7 +4,7 @@ IF NEEDED:
 
 `replace "[OLD STRING]" "[NEWSTRING]" -- [FILENAME]`
 
-<sup>(e.g. pesky `NaN`s to `null`s)</sub>
+<sup>(e.g. pesky `NaN`s to `null`s, or `[null]`s to `nulls`)</sub>
 
 DROP NULLS:
 
@@ -12,4 +12,4 @@ DROP NULLS:
 
 CONVERT TO YAML
 
-`python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' < [JSONFILE] > [YAMLFILE]`
+`python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=True)' < [JSONFILE] > [YAMLFILE]`

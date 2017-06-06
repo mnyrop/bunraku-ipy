@@ -4,9 +4,6 @@
     "label": "Amanjaku",
     "label_ka": "あまんじゃく",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "あまんじゃく"
   },
   {
@@ -14,9 +11,6 @@
     "label": "Ebisu",
     "label_ka": "恵比須",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "えびす"
   },
   {
@@ -756,9 +750,6 @@
     "label": "Ochō no kodomo",
     "label_ka": "お蝶の子供",
     "category": "Children",
-    "image_id": [
-      null
-    ],
     "sort_ja": "おちょうのこども"
   },
   {
@@ -1291,9 +1282,6 @@
     "label": "Otoko (sewa)",
     "label_ka": "男（世話）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "おとこ（せわ）"
   },
   {
@@ -1352,9 +1340,6 @@
     "label": "Oni",
     "label_ka": "鬼",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "おに"
   },
   {
@@ -1461,9 +1446,6 @@
     "label": "Oniwaka chū koyaku",
     "label_ka": "鬼若中子役",
     "category": "Children",
-    "image_id": [
-      null
-    ],
     "sort_ja": "おにわかちゅうこやく"
   },
   {
@@ -2034,9 +2016,6 @@
     "label": "Onna chū koyaku",
     "label_ka": "女中子役",
     "category": "Children",
-    "image_id": [
-      null
-    ],
     "sort_ja": "おんなちゅうこやく"
   },
   {
@@ -2129,9 +2108,6 @@
     "label": "Gabu (kasane)",
     "label_ka": "累のガブ",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "かさねのがぶ"
   },
   {
@@ -2229,9 +2205,6 @@
     "label": "Kabocha",
     "label_ka": "かぼちゃ",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "かぼちゃ"
   },
   {
@@ -2239,9 +2212,6 @@
     "label": "Kamezasa",
     "label_ka": "亀笹",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "かめざさ"
   },
   {
@@ -2249,9 +2219,6 @@
     "label": "Karasu tengu",
     "label_ka": "烏天狗",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "からすてんぐ"
   },
   {
@@ -2830,9 +2797,6 @@
     "label": "Kitsune",
     "label_ka": "狐",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "きつね"
   },
   {
@@ -3511,9 +3475,6 @@
     "label": "Kēto",
     "label_ka": "ケート",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "けーと"
   },
   {
@@ -7498,9 +7459,6 @@
     "label": "Genta (jidai)",
     "label_ka": "源太（時代）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "げんた（じだい）"
   },
   {
@@ -10367,9 +10325,6 @@
     "label": "Koneko",
     "label_ka": "子猫",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "こねこ"
   },
   {
@@ -10377,9 +10332,6 @@
     "label": "Konezumi",
     "label_ka": "子ねずみ",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "こねずみ"
   },
   {
@@ -10387,9 +10339,6 @@
     "label": "Konoha tengu",
     "label_ka": "木の葉天狗",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "このはてんぐ"
   },
   {
@@ -10526,9 +10475,6 @@
     "label": "Sasuke",
     "label_ka": "佐助",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "さすけ"
   },
   {
@@ -10752,9 +10698,6 @@
     "label": "Zatō",
     "label_ka": "座頭",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ざとう"
   },
   {
@@ -10821,9 +10764,6 @@
     "label": "Sanmaime (onna)",
     "label_ka": "三枚目（女）",
     "category": "Female",
-    "image_id": [
-      null
-    ],
     "sort_ja": "さんまいめ（おんな）"
   },
   {
@@ -10843,9 +10783,6 @@
     "label": "Jiji tsume",
     "label_ka": "爺つめ",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "じじつめ"
   },
   {
@@ -10853,9 +10790,6 @@
     "label": "Shitadashi",
     "label_ka": "舌出し",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "しただし"
   },
   {
@@ -11102,9 +11036,6 @@
     "label": "Shutendōji",
     "label_ka": "酒呑童子",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "しゅてんどうじ"
   },
   {
@@ -11400,9 +11331,6 @@
     "label": "Shōnin",
     "label_ka": "上人",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "しょうにん"
   },
   {
@@ -11565,9 +11493,6 @@
     "label": "Suzume",
     "label_ka": "雀",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "すずめ"
   },
   {
@@ -11575,9 +11500,6 @@
     "label": "Sen-ō no bōrei",
     "label_ka": "先王の亡霊",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "せんおうのぼうれい"
   },
   {
@@ -12137,9 +12059,6 @@
     "label": "Tameyoshi",
     "label_ka": "為義",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ためよし"
   },
   {
@@ -12784,9 +12703,6 @@
     "label": "Danbatake no hyakushō",
     "label_ka": "段畑の百姓",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "だんばたけのひゃくしょう"
   },
   {
@@ -13965,9 +13881,6 @@
     "label": "Nichiren",
     "label_ka": "日蓮",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "にちれん"
   },
   {
@@ -13975,9 +13888,6 @@
     "label": "Neko",
     "label_ka": "猫",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ねこ"
   },
   {
@@ -13985,9 +13895,6 @@
     "label": "Nezumi",
     "label_ka": "ねずみ",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ねずみ"
   },
   {
@@ -16392,9 +16299,6 @@
     "label": "Hitotsume",
     "label_ka": "一つ目",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ひとつめ"
   },
   {
@@ -16430,9 +16334,6 @@
     "label": "Hyakushō",
     "label_ka": "百姓",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ひゃくしょう"
   },
   {
@@ -16440,9 +16341,6 @@
     "label": "Hiyoshimaru (Oniwaka)",
     "label_ka": "日吉丸（鬼若）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ひよしまる（おにわか）"
   },
   {
@@ -16450,9 +16348,6 @@
     "label": "Pinkāton",
     "label_ka": "ピンカートン",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ぴんかーとん"
   },
   {
@@ -19967,9 +19862,6 @@
     "label": "Fukehayaku",
     "label_ka": "老端役",
     "category": "Female",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ふけはやく"
   },
   {
@@ -22892,9 +22784,6 @@
     "label": "Mitsume",
     "label_ka": "三つ目",
     "category": "Special",
-    "image_id": [
-      null
-    ],
     "sort_ja": "みつめ"
   },
   {
@@ -28344,9 +28233,6 @@
     "label": "Yamachichi",
     "label_ka": "山父",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "やまちち"
   },
   {
@@ -28354,9 +28240,6 @@
     "label": "Yūgao",
     "label_ka": "夕顔",
     "category": "Female",
-    "image_id": [
-      null
-    ],
     "sort_ja": "ゆうがお"
   },
   {
@@ -28627,9 +28510,6 @@
     "label": "Yokanbei (jidai)",
     "label_ka": "与勘平（時代）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "よかんべい（じだい）"
   },
   {
@@ -29827,9 +29707,6 @@
     "label": "Warubaba (sewa)",
     "label_ka": "悪婆（世話）",
     "category": "Female",
-    "image_id": [
-      null
-    ],
     "sort_ja": "わるばば（せわ）"
   },
   {
@@ -29859,9 +29736,6 @@
     "label": "Shinzō",
     "label_ka": "新造",
     "category": "Female",
-    "image_id": [
-      null
-    ],
     "sort_ja": "しんぞう"
   },
   {
@@ -29869,9 +29743,6 @@
     "label": "Hanamuke",
     "label_ka": "はなむけ",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "はなむけ"
   },
   {
@@ -29879,9 +29750,6 @@
     "label": "Sanmaime (kani)",
     "label_ka": "三枚目（かに）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "さんまいめ（かに）"
   },
   {
@@ -29889,9 +29757,6 @@
     "label": "Genta (Ugokinashi )",
     "label_ka": "源太（動きなし）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "げんた（うごきなし）"
   },
   {
@@ -29924,9 +29789,6 @@
     "label": "Mimi ugoki no Kōmei",
     "label_ka": "耳動きの孔明",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "みみうごきのこうめい"
   },
   {
@@ -30016,9 +29878,6 @@
     "label": "Sanmaime (Yūsen)",
     "label_ka": "三枚目（祐仙）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "さんまいめ（ゆうせん）"
   },
   {
@@ -30026,9 +29885,6 @@
     "label": "Sanmaime (Bannai)",
     "label_ka": "三枚目（伴内）",
     "category": "Male",
-    "image_id": [
-      null
-    ],
     "sort_ja": "さんまいめ（ばんない）"
   },
   {
@@ -30044,8 +29900,12 @@
   },
   {
     "kashira_id": "75",
+    "label": "",
+    "label_ka": "",
+    "category": "",
     "image_id": [
       "45274"
-    ]
+    ],
+    "sort_ja": ""
   }
 ]
