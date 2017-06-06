@@ -8,7 +8,7 @@ IF NEEDED:
 
 DROP NULLS:
 
-`jq 'del(.[][] | nulls)' [FILENAME]`
+`jq 'del(.[][] | nulls)' [FILENAME] > [NEWFILENAME]`
 
 CONVERT TO YAML
 
