@@ -1,0 +1,1346 @@
+[
+  {
+    "author_id": 1,
+    "dates": "fl. 1741-1767",
+    "label": "Asada Icchō",
+    "label_ka": "浅田一鳥",
+    "play_id": [
+      19,
+      72,
+      105,
+      122
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "あさだいっちょう"
+  },
+  {
+    "author_id": 2,
+    "label": "Ashikawa Teruha",
+    "label_ka": "芦川照葉",
+    "play_id": [
+      173
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "あしかわてるは"
+  },
+  {
+    "author_id": 4,
+    "dates": "d. 1786 or 7",
+    "label": "Chikamatsu Hanji",
+    "label_ka": "近松半二",
+    "play_id": [
+      11,
+      21,
+      25,
+      27,
+      29,
+      33,
+      52,
+      79,
+      80,
+      90,
+      101,
+      110,
+      141,
+      147
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "ちかまつはんじ"
+  },
+  {
+    "author_id": 5,
+    "label": "Chikamatsu Kosuiken",
+    "label_ka": "近松湖水軒",
+    "play_id": [
+      16
+    ],
+    "reference": "繪本太功記 / 近松やなぎ, 近松湖水軒, 千葉軒合作, 東京 : 金櫻堂, 1890.12, from NACSIS record",
+    "sort_ja": "ちかまつこすいけん"
+  },
+  {
+    "author_id": 6,
+    "label": "Chikamatsu Monzaemon",
+    "label_ka": "近松門左衛門",
+    "play_id": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      17,
+      24,
+      28,
+      34,
+      40,
+      41,
+      54,
+      61,
+      76,
+      85,
+      87,
+      106,
+      107,
+      113,
+      136,
+      144,
+      148,
+      161,
+      174,
+      176
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "ちかまつもんざえもん"
+  },
+  {
+    "author_id": 7,
+    "label": "Chikamatsu Sen'yōken",
+    "label_ka": "近松千葉軒",
+    "play_id": [
+      16
+    ],
+    "reference": "繪本太功記 / 近松やなぎ, 近松湖水軒, 千葉軒合作, 東京 : 金櫻堂, 1890.12, from NACSIS record",
+    "sort_ja": "ちかまつせんようけん"
+  },
+  {
+    "author_id": 8,
+    "label": "Chikamatsu Yasuzō",
+    "label_ka": "近松保蔵",
+    "play_id": [
+      78
+    ],
+    "sort_ja": "ちかまつやすぞう"
+  },
+  {
+    "author_id": 9,
+    "label": "Fukuda Kakei",
+    "sort_ja": "ふくだかけい"
+  },
+  {
+    "author_id": 10,
+    "dates": "1689-1733",
+    "label": "Hasegawa Senshi",
+    "label_ka": "長谷川千四",
+    "play_id": [
+      36,
+      81,
+      83,
+      149
+    ],
+    "reference": "LC Authorities; 壇浦兜軍記 / 文耕堂, 長谷川千四著; [出版地不明] : [出版者不明], [出版年不明] from NACSIS record",
+    "sort_ja": "はせがわせんし"
+  },
+  {
+    "author_id": 11,
+    "label": "Hōjō Hideji",
+    "play_id": [
+      160
+    ],
+    "sort_ja": "ほうじょうひでじ"
+  },
+  {
+    "author_id": 12,
+    "dates": "1663-1742",
+    "label": "Ki Kaion",
+    "label_ka": "紀海音",
+    "play_id": [
+      82
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "きかいおん"
+  },
+  {
+    "author_id": 13,
+    "label": "Kino Jōtarō",
+    "label_ka": "紀上太郎",
+    "play_id": [
+      22
+    ],
+    "reference": "碁太平記白石噺 : 一幕 / 紀上太郎, 烏亭焉馬, 容楊黛作, [東京] : 国立劇場, 1995.3 from a NACSIS record",
+    "sort_ja": "きのじょうたろう"
+  },
+  {
+    "author_id": 14,
+    "label": "Kinoshita Junji",
+    "label_ka": "木下順二",
+    "play_id": [
+      9,
+      134,
+      162
+    ],
+    "sort_ja": "きのしたじゅんじ"
+  },
+  {
+    "author_id": 15,
+    "label": "Kyokutei Bakin",
+    "sort_ja": "きょくていばきん"
+  },
+  {
+    "author_id": 16,
+    "label": "Matsuda Baku",
+    "label_ka": "松田ばく",
+    "play_id": [
+      79
+    ],
+    "reference": "妹脊山婦女庭訓 : 十三鐘絹懸柳 / 近松半二 [ほか] 作 ; 三好松洛後見, 東京 : 金櫻堂, 1891.5 from NACSIS record",
+    "sort_ja": "まつだばく"
+  },
+  {
+    "author_id": 17,
+    "dates": "fl. 1713-1741",
+    "label": "Matsuda Bunkōdō",
+    "label_ka": "文耕堂",
+    "play_id": [
+      26,
+      36,
+      56,
+      66,
+      81,
+      83,
+      94,
+      149
+    ],
+    "reference": "LC Authorities; 壇浦兜軍記 / 文耕堂, 長谷川千四著; [出版地不明] : [出版者不明], [出版年不明] from NACSIS record",
+    "sort_ja": "まつだぶんこうどう"
+  },
+  {
+    "author_id": 18,
+    "dates": "1925-1970",
+    "label": "Mishima Yukio",
+    "label_ka": "三島由紀夫",
+    "play_id": [
+      99
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "みしまゆきお"
+  },
+  {
+    "author_id": 19,
+    "dates": "1696?-1772?",
+    "label": "Miyoshi Shōraku",
+    "label_ka": "三好松洛",
+    "play_id": [
+      18,
+      21,
+      26,
+      27,
+      38,
+      52,
+      56,
+      62,
+      63,
+      66,
+      71,
+      73,
+      79,
+      90,
+      91,
+      93,
+      94,
+      95,
+      101,
+      141,
+      143
+    ],
+    "reference": "夏祭浪花鑑 / 並木千柳, 三好松洛, 竹田小出雲作, 浪華 : 山本九菓亭, [江戸中期] [刊] from NACSIS record; LC Authorities",
+    "sort_ja": "みよししょうらく"
+  },
+  {
+    "author_id": 20,
+    "dates": "fl. 1747-1781",
+    "label": "Nakamura Akei",
+    "label_ka": "中邑阿契",
+    "play_id": [
+      19,
+      48,
+      77
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "なかむらあけい"
+  },
+  {
+    "author_id": 21,
+    "label": "Nakawa Kamesuke",
+    "play_id": [
+      114
+    ],
+    "sort_ja": "なかわかめすけ"
+  },
+  {
+    "author_id": 22,
+    "label": "Nakawa Shimesuke",
+    "label_ka": "奈河七五三助",
+    "play_id": [
+      6,
+      20
+    ],
+    "reference": "近頃河原達引. 堀川猿廻しの段 / [為川宗輔, 筒井半二, 奈河七五三助, 作] (Tokyo : Victor, p2002) from NACSIS record",
+    "sort_ja": "なかわしめすけ"
+  },
+  {
+    "author_id": 23,
+    "label": "Nanba Shōzō",
+    "sort_ja": "なんばしょうぞう"
+  },
+  {
+    "author_id": 24,
+    "label": "Namiki Geiji",
+    "label_ka": "並木鯨児",
+    "play_id": [
+      177
+    ],
+    "sort_ja": "なみきげいじ"
+  },
+  {
+    "author_id": 25,
+    "dates": "1695-1751",
+    "label": "Namiki Senryū (See also Namiki Namiki Sōsuke)",
+    "label_ka": "並木千柳",
+    "play_id": [
+      18,
+      62,
+      63,
+      71,
+      73,
+      91,
+      93,
+      95,
+      143
+    ],
+    "reference": "夏祭浪花鑑 / 並木千柳, 三好松洛, 竹田小出雲作, 浪華 : 山本九菓亭, [江戸中期] [刊] from NACSIS record; LC Authorities; 菅原傳授 / 竹田出雲, 並木千柳, 三好松洛, 竹田小出雲 [著], 寺町(京都) : 菊屋七良兵衛, [1---] from a NACSIS record",
+    "sort_ja": "なみきせんりゅう"
+  },
+  {
+    "author_id": 26,
+    "dates": "1730-1773",
+    "label": "Namiki Shōzō",
+    "label_ka": "並木正三",
+    "play_id": [
+      72,
+      151,
+      177
+    ],
+    "reference": "LC",
+    "sort_ja": "なみきしょうぞう"
+  },
+  {
+    "author_id": 27,
+    "dates": "1695-1751",
+    "label": "Namiki Sōsuke (See also Namiki Senryū)",
+    "label_ka": "並木宗輔",
+    "play_id": [
+      18,
+      65,
+      72,
+      142,
+      164
+    ],
+    "reference": "苅萱桑門筑紫 / 並木宗輔作, 浪華 : 紙屋與右衛門[ほか], 享保20[1735]刊 from NACSIS record",
+    "sort_ja": "なみきそうすけ"
+  },
+  {
+    "author_id": 28,
+    "label": "Namiki Jōsuke",
+    "label_ka": "並木丈輔",
+    "play_id": [
+      142
+    ],
+    "reference": "Hironaga, Shūzabuō, The Bunraku Handbook (Tokyo: Maison des Arts, 1976);  Kokuritsu Gekijō jōen shiryōshū, edited by Kokuritsu Gekijō Geinō Chōsashitsu, vol. 218, September 1983 under Karukaya Doshin",
+    "sort_ja": "なみきじょうすけ"
+  },
+  {
+    "author_id": 29,
+    "label": "Namioka Geiji",
+    "label_ka": "浪岡鯨児",
+    "play_id": [
+      72
+    ],
+    "sort_ja": "なみきげいじ"
+  },
+  {
+    "author_id": 30,
+    "label": "Nozawa Katsuhei",
+    "label_ka": "野澤勝平",
+    "play_id": [
+      131
+    ],
+    "sort_ja": "のざわかつへい"
+  },
+  {
+    "author_id": 31,
+    "label": "Nozawa Matsunosuke",
+    "label_ka": "野澤松之輔",
+    "play_id": [
+      12,
+      46,
+      119
+    ],
+    "reference": "December 1993 Men Uri",
+    "sort_ja": "のざわまつのすけ"
+  },
+  {
+    "author_id": 32,
+    "label": "Senzenken",
+    "sort_ja": "せんぜんけん"
+  },
+  {
+    "author_id": 33,
+    "dates": "b. 1760?",
+    "label": "Shiba Shisō",
+    "label_ka": "司馬芝叟",
+    "play_id": [
+      23
+    ],
+    "sort_ja": "しばしそう"
+  },
+  {
+    "author_id": 34,
+    "dates": "1728-1779",
+    "label": "Suga Sensuke",
+    "label_ka": "菅専助",
+    "play_id": [
+      5,
+      13,
+      32,
+      35,
+      75,
+      97,
+      108,
+      109,
+      116
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "すがせんすけ"
+  },
+  {
+    "author_id": 36,
+    "dates": "d. 1747",
+    "label": "Takeda Izumo, I",
+    "label_ka": "竹田出雲",
+    "play_id": [
+      15,
+      26,
+      73
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "たけだいずも"
+  },
+  {
+    "author_id": 37,
+    "label": "Takeda Hanshichi",
+    "sort_ja": "たけだはんしち"
+  },
+  {
+    "author_id": 38,
+    "label": "Takeda Inaba",
+    "label_ka": "竹田因幡",
+    "play_id": [
+      27
+    ],
+    "sort_ja": "たけだいなば"
+  },
+  {
+    "author_id": 39,
+    "label": "Takeda Koide",
+    "label_ka": "竹田小出",
+    "play_id": [
+      27,
+      101
+    ],
+    "sort_ja": "たけだこいで"
+  },
+  {
+    "author_id": 40,
+    "label": "Takeda Koizumo",
+    "label_ka": "竹田小出雲",
+    "play_id": [
+      25,
+      26,
+      52,
+      56,
+      71,
+      73,
+      95,
+      141,
+      147
+    ],
+    "reference": "日高川入相花王 / 竹田小出雲 [ほか] 作; 大坂 : 紙屋與右衛門 from NACSIS record",
+    "sort_ja": "たけだこいずも"
+  },
+  {
+    "author_id": 41,
+    "label": "Takemoto Saburobei",
+    "label_ka": "竹本三郎兵衛",
+    "play_id": [
+      21,
+      25,
+      27,
+      33,
+      52,
+      82,
+      90,
+      101,
+      110,
+      141,
+      147
+    ],
+    "sort_ja": "ためもとさぶろべい"
+  },
+  {
+    "author_id": 42,
+    "dates": "1905-",
+    "label": "Tanaka Chikao",
+    "label_ka": "田中千禾夫",
+    "play_id": [
+      158,
+      175
+    ],
+    "reference": "LC",
+    "sort_ja": "たなかちかお"
+  },
+  {
+    "author_id": 43,
+    "label": "Toyotake Jinroku",
+    "label_ka": "豊竹甚六",
+    "play_id": [
+      72
+    ],
+    "sort_ja": "とよたけじんろく"
+  },
+  {
+    "author_id": 44,
+    "label": "Toyotake Ōritsu",
+    "label_ka": "豊竹応律",
+    "play_id": [
+      19,
+      82,
+      105
+    ],
+    "sort_ja": "とよたけおうりつ"
+  },
+  {
+    "author_id": 45,
+    "label": "Tsutsui Hanko",
+    "sort_ja": "つついはんこ"
+  },
+  {
+    "author_id": 46,
+    "label": "Uchimura Naoya",
+    "label_ka": "内村直也",
+    "play_id": [
+      186
+    ],
+    "reference": "女の平和",
+    "sort_ja": "うちむらなおや"
+  },
+  {
+    "author_id": 47,
+    "dates": "18th cent",
+    "label": "Umeno Shitakaze",
+    "label_ka": "梅野下風",
+    "play_id": [
+      78
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "うめのしたかぜ"
+  },
+  {
+    "author_id": 48,
+    "dates": "1743-1822",
+    "label": "Utei Enba",
+    "label_ka": "烏亭焉馬",
+    "play_id": [
+      22
+    ],
+    "reference": "碁太平記白石噺 : 一幕 / 紀上太郎, 烏亭焉馬, 容楊黛作, [東京] : 国立劇場, 1995.3 from a NACSIS record",
+    "sort_ja": "うていえんば"
+  },
+  {
+    "author_id": 49,
+    "dates": "1752-1810",
+    "label": "Yamada Kakashi",
+    "label_ka": "山田案山子",
+    "play_id": [
+      57
+    ],
+    "reference": "Keene, Donald, Bunraku: The Art of the Japanese Puppet Theatre (Tokyo: Kodansha International, 1973);  Kokuritsu Gekijō jōen shiryōshū, edited by Kokuritsu Gekijō Geinō Chōsashitsu, vol. 218, September 1983, p. 67.",
+    "sort_ja": "やまだかかし"
+  },
+  {
+    "author_id": 50,
+    "dates": "18th cent.",
+    "label": "Yō Yōtai",
+    "label_ka": "容楊黛",
+    "play_id": [
+      22,
+      30
+    ],
+    "reference": "LC Authorties",
+    "sort_ja": "ようようたい"
+  },
+  {
+    "author_id": 52,
+    "dates": "1691-1756",
+    "label": "Takeda Izumo, II",
+    "label_ka": "竹田出雲",
+    "play_id": [
+      18,
+      62,
+      63,
+      91,
+      143
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "たけだいずも"
+  },
+  {
+    "author_id": 53,
+    "dates": "1767-1848",
+    "label": "Takizawa Bakin",
+    "label_ka": "滝沢馬琴",
+    "play_id": [
+      126
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "たきざわばきん"
+  },
+  {
+    "author_id": 54,
+    "label": "Satō Aiko",
+    "label_ka": "佐藤靄子",
+    "play_id": [
+      112,
+      133
+    ],
+    "reference": "NACSIS",
+    "sort_ja": "さとうあいこ"
+  },
+  {
+    "author_id": 55,
+    "dates": "1909-",
+    "label": "Sumi Fusako",
+    "label_ka": "鷲見房子",
+    "play_id": [
+      111
+    ],
+    "reference": "NACSIS; (LC)",
+    "sort_ja": "すみふさこ"
+  },
+  {
+    "author_id": 56,
+    "dates": "1747-1808",
+    "label": "Namiki Gohei",
+    "label_ka": "並木五瓶",
+    "play_id": [
+      31,
+      49,
+      115,
+      146
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "なみきごへい"
+  },
+  {
+    "author_id": 57,
+    "dates": "fl. 1773",
+    "label": "Matsuda Wakichi",
+    "label_ka": "松田和吉",
+    "play_id": [
+      109
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "まつだわきち"
+  },
+  {
+    "author_id": 58,
+    "dates": "fl. 1736-1772",
+    "label": "Wakatake Fuemi",
+    "label_ka": "若竹笛躬",
+    "play_id": [
+      13,
+      35,
+      48,
+      75,
+      77,
+      97,
+      105,
+      109,
+      116
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "わかたけふえみ"
+  },
+  {
+    "author_id": 59,
+    "label": "Kitamado Goichi",
+    "label_ka": "北窓後一",
+    "play_id": [
+      21,
+      25,
+      110,
+      141,
+      147
+    ],
+    "sort_ja": "きたまどごいち"
+  },
+  {
+    "author_id": 60,
+    "label": "Nihodō",
+    "label_ka": "二歩堂",
+    "play_id": [
+      25,
+      147
+    ],
+    "sort_ja": "にほどう"
+  },
+  {
+    "author_id": 61,
+    "label": "Chikamatsu Yanagi",
+    "label_ka": "近松柳",
+    "play_id": [
+      16,
+      120
+    ],
+    "reference": "繪本太功記 / 近松やなぎ, 近松湖水軒, 千葉軒合作, 東京 : 金櫻堂, 1890.12, from NACSIS record",
+    "sort_ja": "ちかまつやなぎ"
+  },
+  {
+    "author_id": 62,
+    "label": "Koku Zōsu",
+    "label_ka": "黒蔵主",
+    "play_id": [
+      19,
+      48,
+      105
+    ],
+    "reference": "Keene, Donald, Bunraku: The Art of the Japanese Puppet Theatre (Tokyo: Kodansha International, 1973), under Musume Kagekiyo Yashima Nikki",
+    "sort_ja": "こくぞうす"
+  },
+  {
+    "author_id": 63,
+    "label": "Mitsu",
+    "play_id": [
+      19
+    ],
+    "sort_ja": "みつ"
+  },
+  {
+    "author_id": 64,
+    "label": "Sagawa Tōta",
+    "label_ka": "佐川藤太",
+    "play_id": [
+      51,
+      58,
+      135,
+      139
+    ],
+    "reference": "八陳守護城 / 中村漁岸, 佐川藤太作, 大坂 : 玉置清七, 文化4[1807]刊 from NACSIS record",
+    "sort_ja": "さがわとうた"
+  },
+  {
+    "author_id": 65,
+    "label": "Chikamatsu Baishiken",
+    "label_ka": "近松梅枝軒",
+    "play_id": [
+      51,
+      58,
+      120,
+      139
+    ],
+    "sort_ja": "ちかまつばいしけん"
+  },
+  {
+    "author_id": 66,
+    "label": "Yoshida Shingo",
+    "label_ka": "吉田新吾",
+    "play_id": [
+      51,
+      139
+    ],
+    "sort_ja": "よしだしんご"
+  },
+  {
+    "author_id": 67,
+    "label": "Nakamura Gyogan",
+    "label_ka": "中村漁岸",
+    "play_id": [
+      135
+    ],
+    "reference": "八陳守護城 / 中村漁岸, 佐川藤太作, 大坂 : 玉置清七, 文化4[1807]刊 from NACSIS record",
+    "sort_ja": "なかむらぎょがん"
+  },
+  {
+    "author_id": 68,
+    "label": "Yatami Heishichi",
+    "label_ka": "八民平七",
+    "play_id": [
+      33,
+      52,
+      82,
+      90
+    ],
+    "sort_ja": "やたみへいしち"
+  },
+  {
+    "author_id": 69,
+    "label": "Tamaki [Fudeji?]",
+    "label_ka": "玉木筆二",
+    "play_id": [
+      23
+    ],
+    "sort_ja": "たまきふでじ"
+  },
+  {
+    "author_id": 71,
+    "label": "Tankō Tazō",
+    "label_ka": "亶侯多蔵",
+    "play_id": [
+      23
+    ],
+    "reference": "Union Catalogue of Early Japanese Books",
+    "sort_ja": "たんこうたぞう"
+  },
+  {
+    "author_id": 72,
+    "label": "Tsutsui Hanbei",
+    "label_ka": "筒井半平",
+    "play_id": [
+      23
+    ],
+    "sort_ja": "つついはんべい"
+  },
+  {
+    "author_id": 73,
+    "label": "Asada Kakei",
+    "label_ka": "浅田可啓",
+    "play_id": [
+      26
+    ],
+    "sort_ja": "あさだかけい"
+  },
+  {
+    "author_id": 74,
+    "label": "Chikamatsu Kazō",
+    "label_ka": "近松加造",
+    "play_id": [
+      120
+    ],
+    "reference": "NACSIS",
+    "sort_ja": "ちかまつかぞう"
+  },
+  {
+    "author_id": 75,
+    "label": "Chikamatsu Manju",
+    "label_ka": "近松万寿",
+    "play_id": [
+      120
+    ],
+    "reference": "January 1989 Program (Hiyoshimaru)",
+    "sort_ja": "ちかまつまんじゅ"
+  },
+  {
+    "author_id": 76,
+    "label": "Takeda Heishichi",
+    "label_ka": "竹田平七",
+    "play_id": [
+      27
+    ],
+    "sort_ja": "たけだへいしち"
+  },
+  {
+    "author_id": 77,
+    "label": "Naniwa Sanzō",
+    "label_ka": "難波三蔵",
+    "play_id": [
+      72
+    ],
+    "sort_ja": "なにわさんぞう"
+  },
+  {
+    "author_id": 78,
+    "dates": "1751 or 2-1810",
+    "label": "Chikamatsu Tokuzō",
+    "label_ka": "近松徳三",
+    "play_id": [
+      104
+    ],
+    "reference": "LC Authorities; 伊勢音頭戀寐劔, [近松徳三作], ([大坂] : [藤川八蔵], [179-]) from NACSIS record",
+    "sort_ja": "ちかまつとくぞう"
+  },
+  {
+    "author_id": 79,
+    "label": "Terada Heizō",
+    "label_ka": "寺田兵蔵",
+    "play_id": [
+      33
+    ],
+    "reference": "NACSIS",
+    "sort_ja": "てらだへいぞう"
+  },
+  {
+    "author_id": 80,
+    "label": "Takeda Bunkichi",
+    "label_ka": "竹田文吉",
+    "play_id": [
+      33,
+      52,
+      101
+    ],
+    "sort_ja": "たけだぶんきち"
+  },
+  {
+    "author_id": 81,
+    "dates": "d. 1798",
+    "label": "Matsu Kanshi",
+    "label_ka": "松貫四",
+    "play_id": [
+      37,
+      45,
+      125
+    ],
+    "reference": "LC Authorities; 伽羅先代萩 / 松貫四, 高橋武兵衛, 吉田角丸著, 東京 : 金櫻堂, 1891.1 from NACSIS record",
+    "sort_ja": "まつかんし"
+  },
+  {
+    "author_id": 82,
+    "label": "Yoshida Kakumaru",
+    "label_ka": "吉田角丸",
+    "play_id": [
+      37,
+      45,
+      125
+    ],
+    "reference": "伽羅先代萩 / 松貫四, 高橋武兵衛, 吉田角丸著, 東京 : 金櫻堂, 1891.1 from NACSIS record",
+    "sort_ja": "よしだかくまる"
+  },
+  {
+    "author_id": 83,
+    "dates": "1887-1928",
+    "label": "Kujō Takeko",
+    "label_ka": "九條武子",
+    "play_id": [
+      12
+    ],
+    "reference": "NACSIS; LC",
+    "sort_ja": "くじょうたけこ"
+  },
+  {
+    "author_id": 84,
+    "label": "Fukumatsu Tōsuke",
+    "label_ka": "福松藤助",
+    "play_id": [
+      105
+    ],
+    "sort_ja": "ふくまつとうすけ"
+  },
+  {
+    "author_id": 85,
+    "label": "Namiki Eisuke",
+    "label_ka": "並木永輔",
+    "play_id": [
+      105
+    ],
+    "sort_ja": "なみきえいすけ"
+  },
+  {
+    "author_id": 86,
+    "dates": "d. 1760",
+    "label": "Yoshida Kanshi",
+    "label_ka": "吉田冠子",
+    "play_id": [
+      38
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "よしだかんしち"
+  },
+  {
+    "author_id": 87,
+    "label": "Kimura Tomiko",
+    "label_ka": "木村富子",
+    "play_id": [
+      39
+    ],
+    "sort_ja": "きむらとみこ"
+  },
+  {
+    "author_id": 88,
+    "label": "Sakurada Jisuke, III",
+    "label_ka": "櫻田治助",
+    "play_id": [
+      100,
+      129,
+      157
+    ],
+    "reference": "NACSIS",
+    "sort_ja": "さくらだじいすけ"
+  },
+  {
+    "author_id": 89,
+    "label": "Tamenaga Tarobei",
+    "label_ka": "為永太郎兵衛",
+    "play_id": [
+      121
+    ],
+    "reference": "久米仙人吉野櫻 / 為永太郎兵衛作, [出版地不明] : [出版者不明], 1743.8 from NACSIS record",
+    "sort_ja": "ためながたろべい"
+  },
+  {
+    "author_id": 90,
+    "label": "Amano Shirō",
+    "label_ka": "雨野士郎",
+    "play_id": [
+      44
+    ],
+    "sort_ja": "あまのしろう"
+  },
+  {
+    "author_id": 91,
+    "label": "Takahashi Buhei",
+    "label_ka": "高橋武兵衛",
+    "play_id": [
+      45,
+      125
+    ],
+    "reference": "伽羅先代萩 / 松貫四, 高橋武兵衛, 吉田角丸著, 東京 : 金櫻堂, 1891.1 from NACSIS record",
+    "sort_ja": "たかはしぶへい"
+  },
+  {
+    "author_id": 92,
+    "dates": "1913-1947",
+    "label": "Oda Sakunosuke",
+    "label_ka": "織田作之助",
+    "play_id": [
+      156
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "おださくのすけ"
+  },
+  {
+    "author_id": 93,
+    "label": "Yamaguchi Kōichi",
+    "label_ka": "山口廣一",
+    "play_id": [
+      103
+    ],
+    "sort_ja": "たまぐちこういち"
+  },
+  {
+    "author_id": 94,
+    "label": "Yamada Shōichi",
+    "label_ka": "山田庄一",
+    "play_id": [
+      51,
+      161
+    ],
+    "sort_ja": "やまだしょういち"
+  },
+  {
+    "author_id": 95,
+    "label": "Uno Chiyo",
+    "label_ka": "宇野千代",
+    "play_id": [
+      159
+    ],
+    "sort_ja": "うのちよ"
+  },
+  {
+    "author_id": 96,
+    "label": "Matsuda Saiji",
+    "label_ka": "松田才二",
+    "play_id": [
+      90
+    ],
+    "reference": "誕生梅蘇生松振袖天神記 / 近松半二[ほか]著 from NACSIS record",
+    "sort_ja": "まつださいじ"
+  },
+  {
+    "author_id": 97,
+    "label": "Takeda [Shinmatsu?]",
+    "label_ka": "竹田新松",
+    "play_id": [
+      90
+    ],
+    "sort_ja": "たけだしんまつ"
+  },
+  {
+    "author_id": 98,
+    "label": "Chikamatsu Tōnan",
+    "label_ka": "近松東南",
+    "play_id": [
+      79,
+      90
+    ],
+    "reference": "妹脊山婦女庭訓 : 十三鐘絹懸柳 / 近松半二 [ほか] 作 ; 三好松洛後見, 東京 : 金櫻堂, 1891.5 from NACSIS record; LC Authorities",
+    "sort_ja": "ちかまつとうなん"
+  },
+  {
+    "author_id": 99,
+    "dates": "1888-1948",
+    "label": "Kikuchi Hiroshi",
+    "label_ka": "菊池寛",
+    "play_id": [
+      86
+    ],
+    "reference": "LC Authorities",
+    "sort_ja": "きくちひろし"
+  },
+  {
+    "author_id": 100,
+    "label": "Takeda Izumi",
+    "label_ka": "竹田和泉",
+    "play_id": [
+      110
+    ],
+    "reference": "NACSIS 奥州安達原 / 竹田和泉 [ほか] 作",
+    "sort_ja": "たけだいずみ"
+  },
+  {
+    "author_id": 101,
+    "label": "Kako Chika",
+    "label_ka": "加古千賀",
+    "play_id": [
+      60,
+      68
+    ],
+    "reference": "壺阪霊験記 / 加古千賀著, 大坂 : 竹中清助, [1891], from NACSIS record; Tsubosaka Kannon Reigenki, Kokuritsu Gekijō jōen shiryōshū, edited by Kokuritsu Gekijō Geinō Chōsashitsu, vol. 246, December 1985; Traditional Japanese Theater: An Anthology of Plays, edited by Karen",
+    "sort_ja": "かこちか"
+  },
+  {
+    "author_id": 102,
+    "label": "Ōno Keizō",
+    "label_ka": "大野惠造",
+    "play_id": [
+      118
+    ],
+    "reference": "NACSIS 龍虎 : 劇詩集 / 大野惠造 [著]",
+    "sort_ja": "おおのけいぞう"
+  },
+  {
+    "author_id": 104,
+    "label": "Toyota Shōzō",
+    "label_ka": "豊田正蔵",
+    "play_id": [
+      122
+    ],
+    "reference": "August 1984 Seishu Akogigaura",
+    "sort_ja": "とよたしょうぞう"
+  },
+  {
+    "author_id": 105,
+    "label": "Ogawa Hanbei",
+    "label_ka": "小川半平",
+    "play_id": [
+      56
+    ],
+    "reference": "竹本座浄瑠璃集 / 平田澄子, 東京 : 国書刊行会, 1988-1996, from NACSIS record",
+    "sort_ja": "おがわはんべい"
+  },
+  {
+    "author_id": 106,
+    "label": "Fukuuchi Kigai",
+    "label_ka": "福内鬼外",
+    "play_id": [
+      55
+    ],
+    "reference": "Shinrei Yaguchi no Watashi",
+    "sort_ja": "ふくうちきがい"
+  },
+  {
+    "author_id": 107,
+    "label": "Takemoto Nishikidayū",
+    "label_ka": "竹本錦太夫",
+    "play_id": [
+      184
+    ],
+    "reference": "Shitakiri Suzume",
+    "sort_ja": "たけもとにしきだゆう"
+  },
+  {
+    "author_id": 108,
+    "dates": "1886-1965",
+    "label": "Tanizaki Junichirō",
+    "label_ka": "谷崎潤一郎",
+    "play_id": [
+      152
+    ],
+    "reference": "LC",
+    "sort_ja": "たにざきじゅんいちろう"
+  },
+  {
+    "author_id": 109,
+    "label": "Tsukuda Heishichi",
+    "label_ka": "筑田平七",
+    "play_id": [
+      101
+    ],
+    "reference": "Taiheiki Chūshin Kōshaku November 1993 Program",
+    "sort_ja": "つくだへいしち"
+  },
+  {
+    "author_id": 110,
+    "label": "Takami Jun",
+    "label_ka": "高見順",
+    "play_id": [
+      127
+    ],
+    "sort_ja": "たかみじゅん"
+  },
+  {
+    "author_id": 111,
+    "label": "Ariyoshi Sawako",
+    "label_ka": "有吉佐和子",
+    "play_id": [
+      127
+    ],
+    "sort_ja": "ありよしさわこ"
+  },
+  {
+    "author_id": 112,
+    "label": "Takeshiba Genzō",
+    "label_ka": "竹柴諺蔵",
+    "play_id": [
+      98
+    ],
+    "reference": "September 1977 Zōhō Chūshingura Program. LC Authorities: ?Katsu, Genzo, 1844-1902",
+    "sort_ja": "たけしばげんぞう"
+  },
+  {
+    "author_id": 113,
+    "label": "Tamekawa Sōsuke",
+    "label_ka": "為川宗輔",
+    "play_id": [
+      6
+    ],
+    "reference": "Kokuritsu Gekijō jōen shiryōshū, edited by Kokuritsu Gekijō Geinō Chōsashitsu, vol. 206, September 1982; July 1989 Program",
+    "sort_ja": "ためかわそうすけ"
+  },
+  {
+    "author_id": 114,
+    "label": "Tsutsukawa Hanji",
+    "label_ka": "筒川半二",
+    "play_id": [
+      6
+    ],
+    "reference": "Kokuritsu Gekijō jōen shiryōshū, edited by Kokuritsu Gekijō Geinō Chōsashitsu, vol. 206, September 1982; NACSIS for furigana",
+    "sort_ja": "つつかわはんじ"
+  },
+  {
+    "author_id": 115,
+    "label": "Toyozawa Danpei, II",
+    "label_ka": "豊沢団平",
+    "play_id": [
+      60
+    ],
+    "reference": "Kokuritsu Gekijō jōen shiryōshū, edited by Kokuritsu Gekijō Geinō Chōsashitsu, vol. 246, December 1985",
+    "sort_ja": "とよざわだんぺい"
+  },
+  {
+    "author_id": 116,
+    "label": "Nozawa Kichibei, III",
+    "label_ka": "野沢吉兵衛",
+    "play_id": [
+      64,
+      165
+    ],
+    "reference": "Hanakurabe Shiki no Kotobuki",
+    "sort_ja": "のざわきちべい"
+  },
+  {
+    "author_id": 117,
+    "label": "Tsuruzawa Jūzō, IV",
+    "label_ka": "鶴澤重造",
+    "play_id": [
+      47
+    ],
+    "reference": "Kokuritsu Gekijō jōen shiryōshū, edited by Kokuritsu Gekijō Geinō Chōsashitsu, vol. 194, September 1981",
+    "sort_ja": "つるざわじゅうぞう"
+  },
+  {
+    "author_id": 118,
+    "label": "Chikamatsu Kasaku",
+    "label_ka": "近松加作",
+    "play_id": [
+      29
+    ],
+    "reference": "伊賀越道中雙六 / 近松半二, 近松加作作, 大阪 : 加嶋清助, [出版年不明] from NACSIS record",
+    "sort_ja": "ちかまつかさく"
+  },
+  {
+    "author_id": 119,
+    "label": "Sakae Zenpei",
+    "label_ka": "栄善平",
+    "play_id": [
+      79
+    ],
+    "reference": "妹脊山婦女庭訓 : 十三鐘絹懸柳 / 近松半二 [ほか] 作 ; 三好松洛後見, 東京 : 金櫻堂, 1891.5 from NACSIS record",
+    "sort_ja": "さかえぜんぺい"
+  },
+  {
+    "author_id": 120,
+    "dates": "1925-",
+    "label": "Yamada Shōichi",
+    "label_ka": "山田庄一",
+    "reference": "LC Authorities",
+    "sort_ja": "やまだしょういち"
+  },
+  {
+    "author_id": 121,
+    "label": "Takeshiba Kamesuke",
+    "play_id": [
+      92
+    ],
+    "reference": "Sakuratsuba Urami no Samezaya",
+    "sort_ja": "たけしばかめすけ"
+  },
+  {
+    "author_id": 122,
+    "label": "Tsuruzawa Dōhachi, I",
+    "label_ka": "鶴澤 道八",
+    "play_id": [
+      70,
+      96
+    ],
+    "reference": "Sannin Katawa September 1972 Program",
+    "sort_ja": "つるざわどうはち"
+  },
+  {
+    "author_id": 123,
+    "dates": "'1954-'",
+    "label": "Toyotake Komatsudayū II",
+    "label_ka": "豊竹小松大夫 (二)",
+    "reference": "Performers",
+    "sort_ja": "とよたけこまつだゆう（２)"
+  },
+  {
+    "author_id": 124,
+    "dates": "1924-2004",
+    "label": "Barbara C. Adachi",
+    "reference": "LC Authorities"
+  },
+  {
+    "author_id": 125,
+    "dates": "1938-",
+    "label": "Harri Peccinotti",
+    "reference": "LC Authorities"
+  },
+  {
+    "author_id": 126,
+    "dates": "1943-",
+    "label": "Fukuda Fumio",
+    "label_ka": "福田文男",
+    "reference": "LC Authorities",
+    "sort_ja": "フクダ フミオ"
+  },
+  {
+    "author_id": 127,
+    "dates": "1900-",
+    "label": "M. Arai",
+    "reference": "Ad Hoc"
+  },
+  {
+    "author_id": 128,
+    "dates": "Ad Hoc",
+    "label": "Unknown. Photo: Columbia University Libraries",
+    "label_ka": "1900-"
+  }
+]
