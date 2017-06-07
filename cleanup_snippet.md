@@ -11,7 +11,7 @@ replace "\"nan\"" "null" --
 
 DROP NULLS:
 
-`jq 'del(.[][] | nulls)' [FILENAME] > [NEWFILENAME]`
+`jq 'del(.[][] | nulls)' --compact-output [FILENAME] > [NEWFILENAME]`
 
 CONVERT TO YAML
 
