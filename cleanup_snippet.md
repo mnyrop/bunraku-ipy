@@ -4,6 +4,9 @@ IF NEEDED:
 
 `replace "[OLD STRING]" "[NEWSTRING]" -- [FILENAME]`
 
+replace "[null]" "null" --
+replace "\"nan\"" "null" --
+
 <sup>(e.g. pesky `NaN`s to `null`s, or `[null]`s to `nulls`)</sub>
 
 DROP NULLS:
