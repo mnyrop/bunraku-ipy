@@ -1,0 +1,212 @@
+- id: 39
+  label_eng: Takeda Koide
+  label_ka: "\u7AF9\u7530\u5C0F\u51FA"
+  play_id:
+  - '27'
+  - '101'
+  sort_ja: "\u305F\u3051\u3060\u3053\u3044\u3067"
+- id: 38
+  label_eng: Takeda Inaba
+  label_ka: "\u7AF9\u7530\u56E0\u5E61"
+  play_id:
+  - '27'
+  sort_ja: "\u305F\u3051\u3060\u3044\u306A\u3070"
+- id: 59
+  label_eng: Kitamado Goichi
+  label_ka: "\u5317\u7A93\u5F8C\u4E00"
+  play_id:
+  - '21'
+  - '25'
+  - '110'
+  - '141'
+  - '147'
+  sort_ja: "\u304D\u305F\u307E\u3069\u3054\u3044\u3061"
+- id: 79
+  label_eng: "Terada Heiz\u014D"
+  label_ka: "\u5BFA\u7530\u5175\u8535"
+  play_id:
+  - '33'
+  reference: NACSIS
+  sort_ja: "\u3066\u3089\u3060\u3078\u3044\u305E\u3046"
+- id: 76
+  label_eng: Takeda Heishichi
+  label_ka: "\u7AF9\u7530\u5E73\u4E03"
+  play_id:
+  - '27'
+  sort_ja: "\u305F\u3051\u3060\u3078\u3044\u3057\u3061"
+- dates: 1696?-1772?
+  id: 19
+  label_eng: "Miyoshi Sh\u014Draku"
+  label_ka: "\u4E09\u597D\u677E\u6D1B"
+  play_id:
+  - '18'
+  - '21'
+  - '26'
+  - '27'
+  - '38'
+  - '52'
+  - '56'
+  - '62'
+  - '63'
+  - '66'
+  - '71'
+  - '73'
+  - '79'
+  - '90'
+  - '91'
+  - '93'
+  - '94'
+  - '95'
+  - '101'
+  - '141'
+  - '143'
+  reference: "\u590F\u796D\u6D6A\u82B1\u9451 / \u4E26\u6728\u5343\u67F3, \u4E09\u597D\
+    \u677E\u6D1B, \u7AF9\u7530\u5C0F\u51FA\u96F2\u4F5C, \u6D6A\u83EF : \u5C71\u672C\
+    \u4E5D\u83D3\u4EAD, [\u6C5F\u6238\u4E2D\u671F] [\u520A] from NACSIS record; LC\
+    \ Authorities"
+  sort_ja: "\u307F\u3088\u3057\u3057\u3087\u3046\u3089\u304F"
+- id: 100
+  label_eng: Takeda Izumi
+  label_ka: "\u7AF9\u7530\u548C\u6CC9"
+  play_id:
+  - '110'
+  reference: "NACSIS \u5965\u5DDE\u5B89\u9054\u539F / \u7AF9\u7530\u548C\u6CC9 [\u307B\
+    \u304B] \u4F5C"
+  sort_ja: "\u305F\u3051\u3060\u3044\u305A\u307F"
+- id: 16
+  label_eng: Matsuda Baku
+  label_ka: "\u677E\u7530\u3070\u304F"
+  play_id:
+  - '79'
+  reference: "\u59B9\u810A\u5C71\u5A66\u5973\u5EAD\u8A13 : \u5341\u4E09\u9418\u7D79\
+    \u61F8\u67F3 / \u8FD1\u677E\u534A\u4E8C [\u307B\u304B] \u4F5C ; \u4E09\u597D\u677E\
+    \u6D1B\u5F8C\u898B, \u6771\u4EAC : \u91D1\u6AFB\u5802, 1891.5 from NACSIS record"
+  sort_ja: "\u307E\u3064\u3060\u3070\u304F"
+- id: 40
+  label_eng: Takeda Koizumo
+  label_ka: "\u7AF9\u7530\u5C0F\u51FA\u96F2"
+  play_id:
+  - '25'
+  - '26'
+  - '52'
+  - '56'
+  - '71'
+  - '73'
+  - '95'
+  - '141'
+  - '147'
+  reference: "\u65E5\u9AD8\u5DDD\u5165\u76F8\u82B1\u738B / \u7AF9\u7530\u5C0F\u51FA\
+    \u96F2 [\u307B\u304B] \u4F5C; \u5927\u5742 : \u7D19\u5C4B\u8207\u53F3\u885B\u9580\
+    \ from NACSIS record"
+  sort_ja: "\u305F\u3051\u3060\u3053\u3044\u305A\u3082"
+- id: 41
+  label_eng: Takemoto Saburobei
+  label_ka: "\u7AF9\u672C\u4E09\u90CE\u5175\u885B"
+  play_id:
+  - '21'
+  - '25'
+  - '27'
+  - '33'
+  - '52'
+  - '82'
+  - '90'
+  - '101'
+  - '110'
+  - '141'
+  - '147'
+  sort_ja: "\u305F\u3081\u3082\u3068\u3055\u3076\u308D\u3079\u3044"
+- id: 60
+  label_eng: "Nihod\u014D"
+  label_ka: "\u4E8C\u6B69\u5802"
+  play_id:
+  - '25'
+  - '147'
+  sort_ja: "\u306B\u307B\u3069\u3046"
+- id: 98
+  label_eng: "Chikamatsu T\u014Dnan"
+  label_ka: "\u8FD1\u677E\u6771\u5357"
+  play_id:
+  - '79'
+  - '90'
+  reference: "\u59B9\u810A\u5C71\u5A66\u5973\u5EAD\u8A13 : \u5341\u4E09\u9418\u7D79\
+    \u61F8\u67F3 / \u8FD1\u677E\u534A\u4E8C [\u307B\u304B] \u4F5C ; \u4E09\u597D\u677E\
+    \u6D1B\u5F8C\u898B, \u6771\u4EAC : \u91D1\u6AFB\u5802, 1891.5 from NACSIS record;\
+    \ LC Authorities"
+  sort_ja: "\u3061\u304B\u307E\u3064\u3068\u3046\u306A\u3093"
+- id: 109
+  label_eng: Tsukuda Heishichi
+  label_ka: "\u7B51\u7530\u5E73\u4E03"
+  play_id:
+  - '101'
+  reference: "Taiheiki Ch\u016Bshin K\u014Dshaku November 1993 Program"
+  sort_ja: "\u3064\u304F\u3060\u3078\u3044\u3057\u3061"
+- dates: d. 1786 or 7
+  id: 4
+  label_eng: Chikamatsu Hanji
+  label_ka: "\u8FD1\u677E\u534A\u4E8C"
+  play_id:
+  - '11'
+  - '21'
+  - '25'
+  - '27'
+  - '29'
+  - '33'
+  - '52'
+  - '79'
+  - '80'
+  - '90'
+  - '101'
+  - '110'
+  - '141'
+  - '147'
+  reference: LC Authorities
+  sort_ja: "\u3061\u304B\u307E\u3064\u306F\u3093\u3058"
+- id: 68
+  label_eng: Yatami Heishichi
+  label_ka: "\u516B\u6C11\u5E73\u4E03"
+  play_id:
+  - '33'
+  - '52'
+  - '82'
+  - '90'
+  sort_ja: "\u3084\u305F\u307F\u3078\u3044\u3057\u3061"
+- id: 80
+  label_eng: Takeda Bunkichi
+  label_ka: "\u7AF9\u7530\u6587\u5409"
+  play_id:
+  - '33'
+  - '52'
+  - '101'
+  sort_ja: "\u305F\u3051\u3060\u3076\u3093\u304D\u3061"
+- id: 119
+  label_eng: Sakae Zenpei
+  label_ka: "\u6804\u5584\u5E73"
+  play_id:
+  - '79'
+  reference: "\u59B9\u810A\u5C71\u5A66\u5973\u5EAD\u8A13 : \u5341\u4E09\u9418\u7D79\
+    \u61F8\u67F3 / \u8FD1\u677E\u534A\u4E8C [\u307B\u304B] \u4F5C ; \u4E09\u597D\u677E\
+    \u6D1B\u5F8C\u898B, \u6771\u4EAC : \u91D1\u6AFB\u5802, 1891.5 from NACSIS record"
+  sort_ja: "\u3055\u304B\u3048\u305C\u3093\u307A\u3044"
+- id: 118
+  label_eng: Chikamatsu Kasaku
+  label_ka: "\u8FD1\u677E\u52A0\u4F5C"
+  play_id:
+  - '29'
+  reference: "\u4F0A\u8CC0\u8D8A\u9053\u4E2D\u96D9\u516D / \u8FD1\u677E\u534A\u4E8C\
+    , \u8FD1\u677E\u52A0\u4F5C\u4F5C, \u5927\u962A : \u52A0\u5D8B\u6E05\u52A9, [\u51FA\
+    \u7248\u5E74\u4E0D\u660E] from NACSIS record"
+  sort_ja: "\u3061\u304B\u307E\u3064\u304B\u3055\u304F"
+- id: 97
+  label_eng: Takeda [Shinmatsu?]
+  label_ka: "\u7AF9\u7530\u65B0\u677E"
+  play_id:
+  - '90'
+  sort_ja: "\u305F\u3051\u3060\u3057\u3093\u307E\u3064"
+- id: 96
+  label_eng: Matsuda Saiji
+  label_ka: "\u677E\u7530\u624D\u4E8C"
+  play_id:
+  - '90'
+  reference: "\u8A95\u751F\u6885\u8607\u751F\u677E\u632F\u8896\u5929\u795E\u8A18 /\
+    \ \u8FD1\u677E\u534A\u4E8C[\u307B\u304B]\u8457 from NACSIS record"
+  sort_ja: "\u307E\u3064\u3060\u3055\u3044\u3058"
