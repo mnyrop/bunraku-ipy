@@ -1,0 +1,911 @@
+[{
+    "character_id": "2168",
+    "character_name": "Chohakkai",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2168",
+    "character_name": "Chohakkai",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2167",
+    "character_name": "Sanzohoshi",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2167",
+    "character_name": "Sanzohoshi",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2165",
+    "character_name": "Inkaizan, in fact Chinkozui",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2165",
+    "character_name": "Inkaizan, in fact Chinkozui",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2164",
+    "character_name": "Flower peddler, in fact Hakuren",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2164",
+    "character_name": "Flower peddler, in fact Hakuren",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2163",
+    "character_name": "Nikuryokan, in fact Rihyo",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2163",
+    "character_name": "Nikuryokan, in fact Rihyo",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2162",
+    "character_name": "Chinkozui, in fact Ryuko",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2162",
+    "character_name": "Chinkozui, in fact Ryuko",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "943",
+    "character_name": "Feudal lord",
+    "play_id": "136",
+    "play_name": "The Story of Matsukaza and Murasame"
+}, {
+    "character_id": "943",
+    "character_name": "Feudal lord",
+    "play_id": "176",
+    "play_name": "The Monkey Dance"
+}, {
+    "character_id": "2159",
+    "character_name": "Secondhand goods dealer",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "2159",
+    "character_name": "Secondhand goods dealer",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "2158",
+    "character_name": "Street performers",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "2158",
+    "character_name": "Street performers",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "2157",
+    "character_name": "Monkey",
+    "play_id": "136",
+    "play_name": "The Story of Matsukaza and Murasame"
+}, {
+    "character_id": "2157",
+    "character_name": "Monkey",
+    "play_id": "176",
+    "play_name": "The Monkey Dance"
+}, {
+    "character_id": "942",
+    "character_name": "Saizo",
+    "play_id": "165",
+    "play_name": "The Street Entertainers"
+}, {
+    "character_id": "942",
+    "character_name": "Saizo",
+    "play_id": "64",
+    "play_name": "The Dances of the Four Seasons"
+}, {
+    "character_id": "941",
+    "character_name": "Tayu",
+    "play_id": "165",
+    "play_name": "The Street Entertainers"
+}, {
+    "character_id": "941",
+    "character_name": "Tayu",
+    "play_id": "64",
+    "play_name": "The Dances of the Four Seasons"
+}, {
+    "character_id": "425",
+    "character_name": "Boatman",
+    "play_id": "25",
+    "play_name": "The Cherry Trees Along the Hidaka River"
+}, {
+    "character_id": "425",
+    "character_name": "Boatman",
+    "play_id": "147",
+    "play_name": "The Cherry Blossoms of the Dojoji Temple"
+}, {
+    "character_id": "419",
+    "character_name": "Kiyohime",
+    "play_id": "25",
+    "play_name": "The Cherry Trees Along the Hidaka River"
+}, {
+    "character_id": "419",
+    "character_name": "Kiyohime",
+    "play_id": "147",
+    "play_name": "The Cherry Blossoms of the Dojoji Temple"
+}, {
+    "character_id": "418",
+    "character_name": "Toyonari",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "418",
+    "character_name": "Toyonari",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "417",
+    "character_name": "Chujohime",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "417",
+    "character_name": "Chujohime",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "416",
+    "character_name": "Hirotsugu",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "416",
+    "character_name": "Hirotsugu",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "415",
+    "character_name": "Takunai, a servant",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "415",
+    "character_name": "Takunai, a servant",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "414",
+    "character_name": "Kakunai, a servant",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "414",
+    "character_name": "Kakunai, a servant",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "413",
+    "character_name": "Lady Iwane",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "413",
+    "character_name": "Lady Iwane",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "412",
+    "character_name": "Kirinoya",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "412",
+    "character_name": "Kirinoya",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "2166",
+    "character_name": "Sanzohoshi, in fact Songoku",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2166",
+    "character_name": "Sanzohoshi, in fact Songoku",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "316",
+    "character_name": "Fuyo, in fact Ginkaku",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "316",
+    "character_name": "Fuyo, in fact Ginkaku",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "110",
+    "character_name": "Kinezo",
+    "play_id": "138",
+    "play_name": "The Dumpling Peddlers"
+}, {
+    "character_id": "110",
+    "character_name": "Kinezo",
+    "play_id": "74",
+    "play_name": "The Dumpling Peddlers"
+}, {
+    "character_id": "944",
+    "character_name": "Retainer",
+    "play_id": "136",
+    "play_name": "The Story of Matsukaza and Murasame"
+}, {
+    "character_id": "944",
+    "character_name": "Retainer",
+    "play_id": "176",
+    "play_name": "The Monkey Dance"
+}, {
+    "character_id": "1707",
+    "character_name": "Katota",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "1707",
+    "character_name": "Katota",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "1800",
+    "character_name": "Manzai",
+    "play_id": "64",
+    "play_name": "The Dances of the Four Seasons"
+}, {
+    "character_id": "1800",
+    "character_name": "Manzai",
+    "play_id": "165",
+    "play_name": "The Street Entertainers"
+}, {
+    "character_id": "707",
+    "character_name": "Konami",
+    "play_id": "63",
+    "play_name": "The League of the 47 Ronin"
+}, {
+    "character_id": "707",
+    "character_name": "Konami",
+    "play_id": "143",
+    "play_name": "The Bridal Journey"
+}, {
+    "character_id": "708",
+    "character_name": "Tonase",
+    "play_id": "63",
+    "play_name": "The League of the 47 Ronin"
+}, {
+    "character_id": "708",
+    "character_name": "Tonase",
+    "play_id": "143",
+    "play_name": "The Bridal Journey"
+}, {
+    "character_id": "711",
+    "character_name": "Benkei",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "711",
+    "character_name": "Benkei",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "712",
+    "character_name": "Togashi",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "712",
+    "character_name": "Togashi",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "713",
+    "character_name": "Yoshitsune Minamoto",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "713",
+    "character_name": "Yoshitsune Minamoto",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "714",
+    "character_name": "Ise",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "714",
+    "character_name": "Ise",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "2189",
+    "character_name": "Sagojo",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2189",
+    "character_name": "Sagojo",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2187",
+    "character_name": "Old Woman",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2187",
+    "character_name": "Old Woman",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2186",
+    "character_name": "Emperor Taiso",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2186",
+    "character_name": "Emperor Taiso",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2185",
+    "character_name": "Sadakuro",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2185",
+    "character_name": "Sadakuro",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2184",
+    "character_name": "Green Ogre",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2184",
+    "character_name": "Green Ogre",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "2183",
+    "character_name": "Red Ogre",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "2183",
+    "character_name": "Red Ogre",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "715",
+    "character_name": "Suruga",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "715",
+    "character_name": "Suruga",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "716",
+    "character_name": "Hachiro Kataoka",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "716",
+    "character_name": "Hachiro Kataoka",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "717",
+    "character_name": "Hitachibo",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "717",
+    "character_name": "Hitachibo",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "718",
+    "character_name": "Barrier guards",
+    "play_id": "31",
+    "play_name": "The Subscription List"
+}, {
+    "character_id": "718",
+    "character_name": "Barrier guards",
+    "play_id": "49",
+    "play_name": "The New Barrier of Ataka"
+}, {
+    "character_id": "945",
+    "character_name": "Monkey trainer",
+    "play_id": "136",
+    "play_name": "The Story of Matsukaza and Murasame"
+}, {
+    "character_id": "945",
+    "character_name": "Monkey trainer",
+    "play_id": "176",
+    "play_name": "The Monkey Dance"
+}, {
+    "character_id": "411",
+    "character_name": "Ukifune",
+    "play_id": "65",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "411",
+    "character_name": "Ukifune",
+    "play_id": "89",
+    "play_name": "The Pines on Mount Hibari"
+}, {
+    "character_id": "388",
+    "character_name": "Sagimusume",
+    "play_id": "64",
+    "play_name": "The Dances of the Four Seasons"
+}, {
+    "character_id": "388",
+    "character_name": "Sagimusume",
+    "play_id": "166",
+    "play_name": "The Heron Girl"
+}, {
+    "character_id": "385",
+    "character_name": "Saizo",
+    "play_id": "64",
+    "play_name": "The Dances of the Four Seasons"
+}, {
+    "character_id": "385",
+    "character_name": "Saizo",
+    "play_id": "165",
+    "play_name": "The Street Entertainers"
+}, {
+    "character_id": "384",
+    "character_name": "Tayu",
+    "play_id": "64",
+    "play_name": "The Dances of the Four Seasons"
+}, {
+    "character_id": "384",
+    "character_name": "Tayu",
+    "play_id": "165",
+    "play_name": "The Street Entertainers"
+}, {
+    "character_id": "326",
+    "character_name": "Boatman",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "326",
+    "character_name": "Boatman",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "325",
+    "character_name": "Shabbily-clothed woman",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "325",
+    "character_name": "Shabbily-clothed woman",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "324",
+    "character_name": "Jagatara-no-gon",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "324",
+    "character_name": "Jagatara-no-gon",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "323",
+    "character_name": "Gaikotsu, later known as Sagojo",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "323",
+    "character_name": "Gaikotsu, later known as Sagojo",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "322",
+    "character_name": "Chogohachi, later known as Chohakkai",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "322",
+    "character_name": "Chogohachi, later known as Chohakkai",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "321",
+    "character_name": "Ryuko's wife",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "321",
+    "character_name": "Ryuko's wife",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "320",
+    "character_name": "Teremen",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "320",
+    "character_name": "Teremen",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "319",
+    "character_name": "Saikakuen",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "319",
+    "character_name": "Saikakuen",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "318",
+    "character_name": "Priest Homei",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "318",
+    "character_name": "Priest Homei",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "317",
+    "character_name": "Friend of Fuyo's",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "317",
+    "character_name": "Friend of Fuyo's",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "306",
+    "character_name": "Ryuko",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "306",
+    "character_name": "Ryuko",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "307",
+    "character_name": "Rihyo",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "307",
+    "character_name": "Rihyo",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "308",
+    "character_name": "Chinkozui",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "308",
+    "character_name": "Chinkozui",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "309",
+    "character_name": "Hakuren",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "309",
+    "character_name": "Hakuren",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "310",
+    "character_name": "King of Hell",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "310",
+    "character_name": "King of Hell",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "311",
+    "character_name": "Ogre",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "311",
+    "character_name": "Ogre",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "312",
+    "character_name": "Dead man",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "312",
+    "character_name": "Dead man",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "313",
+    "character_name": "Songoku",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "313",
+    "character_name": "Songoku",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "314",
+    "character_name": "Ungai",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "314",
+    "character_name": "Ungai",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "327",
+    "character_name": "Buddha",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "327",
+    "character_name": "Buddha",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "328",
+    "character_name": "Flower peddler",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "328",
+    "character_name": "Flower peddler",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "329",
+    "character_name": "Donketsu",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "329",
+    "character_name": "Donketsu",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "1944",
+    "character_name": "Chuzaburo's wife (Chuza's wife)",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1944",
+    "character_name": "Chuzaburo's wife (Chuza's wife)",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "885",
+    "character_name": "Sambaso",
+    "play_id": "100",
+    "play_name": "The Dance of Sambaso"
+}, {
+    "character_id": "885",
+    "character_name": "Sambaso",
+    "play_id": "129",
+    "play_name": "The Dance of Sambaso"
+}, {
+    "character_id": "884",
+    "character_name": "Okina",
+    "play_id": "100",
+    "play_name": "The Dance of Sambaso"
+}, {
+    "character_id": "884",
+    "character_name": "Okina",
+    "play_id": "129",
+    "play_name": "The Dance of Sambaso"
+}, {
+    "character_id": "883",
+    "character_name": "Senzai",
+    "play_id": "100",
+    "play_name": "The Dance of Sambaso"
+}, {
+    "character_id": "883",
+    "character_name": "Senzai",
+    "play_id": "129",
+    "play_name": "The Dance of Sambaso"
+}, {
+    "character_id": "1381",
+    "character_name": "Sato Tadanobu, in fact Fox Tadanobu",
+    "play_id": "62",
+    "play_name": "Yoshitsune and a Thousand Cherry Trees"
+}, {
+    "character_id": "1381",
+    "character_name": "Sato Tadanobu, in fact Fox Tadanobu",
+    "play_id": "91",
+    "play_name": "The Travel on Mt. Yoshino"
+}, {
+    "character_id": "1367",
+    "character_name": "Shizuka-Gozen",
+    "play_id": "62",
+    "play_name": "Yoshitsune and a Thousand Cherry Trees"
+}, {
+    "character_id": "1367",
+    "character_name": "Shizuka-Gozen",
+    "play_id": "91",
+    "play_name": "The Travel on Mt. Yoshino"
+}, {
+    "character_id": "332",
+    "character_name": "Gyumao",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "332",
+    "character_name": "Gyumao",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "331",
+    "character_name": "Rasetsujo",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "331",
+    "character_name": "Rasetsujo",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "1945",
+    "character_name": "Hachiemon",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1945",
+    "character_name": "Hachiemon",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1943",
+    "character_name": "Chubei",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1943",
+    "character_name": "Chubei",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "330",
+    "character_name": "Townsman",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "330",
+    "character_name": "Townsman",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}, {
+    "character_id": "1942",
+    "character_name": "Umegawa",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1942",
+    "character_name": "Umegawa",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1941",
+    "character_name": "Mizuemon",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1941",
+    "character_name": "Mizuemon",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1940",
+    "character_name": "Okizukin",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1940",
+    "character_name": "Okizukin",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1939",
+    "character_name": "Chief of a police squad",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1939",
+    "character_name": "Chief of a police squad",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1938",
+    "character_name": "Tojibei",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1938",
+    "character_name": "Tojibei",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1937",
+    "character_name": "Magoemon",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1937",
+    "character_name": "Magoemon",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1936",
+    "character_name": "Doan",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1936",
+    "character_name": "Doan",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1935",
+    "character_name": "Dengababa",
+    "play_id": "97",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "1935",
+    "character_name": "Dengababa",
+    "play_id": "116",
+    "play_name": "The Amorous Courier on the Yamato Highway"
+}, {
+    "character_id": "111",
+    "character_name": "Ousu",
+    "play_id": "138",
+    "play_name": "The Dumpling Peddlers"
+}, {
+    "character_id": "111",
+    "character_name": "Ousu",
+    "play_id": "74",
+    "play_name": "The Dumpling Peddlers"
+}, {
+    "character_id": "315",
+    "character_name": "Genjo, later known as Sanzohoshi",
+    "play_id": "139",
+    "play_name": "Monkey"
+}, {
+    "character_id": "315",
+    "character_name": "Genjo, later known as Sanzohoshi",
+    "play_id": "51",
+    "play_name": "Pilgrimage to the West"
+}]
