@@ -9,12 +9,12 @@ Jupyter notebooks &etc. for processing data from the __[Barbara Curtis Adachi Bu
 |-------------:|:-------------| 
 | __Start__     | __Cake PHP site powered by Relational MYSQL database__ | 
 | 1             | MySQL dump to CSVs     | 
-| 2             | Import CSVs into [IPython](https://ipython.org/) as [Pandas](http://pandas.pydata.org/) Dataframes    | 
+| 2             | Import CSVs into __[IPython](https://ipython.org/)__ as __[Pandas](http://pandas.pydata.org/)__ Dataframes    | 
 | 3             | Merge relational data (from CSV jointables) onto Dataframes by type    | 
 | 4             | Export Dataframes as JSON records (and CSVs, for archival purposes only).   | 
-| 5             | Drop null key:value pairs from JSON (bash [JQ](https://stedolan.github.io/jq/))   | 
-| 6             | Convert (no nulls) JSON to YAML (bash [Pyyaml](http://pyyaml.org/))   | 
-| 7             | Generate [Jekyll collections](https://jekyllrb.com/docs/collections/) (and pages) from YAML using [Yaml-Splitter plugin](https://github.com/mnyrop/yaml-splitter) |
+| 5             | Drop null key:value pairs from JSON (bash __[JQ](https://stedolan.github.io/jq/)__)   | 
+| 6             | Convert (no nulls) JSON to YAML (bash __[Pyyaml](http://pyyaml.org/)__)   | 
+| 7             | Generate __[Jekyll collections](https://jekyllrb.com/docs/collections/)__ (and pages) from YAML using __[Yaml-Splitter plugin](https://github.com/mnyrop/yaml-splitter)__ |
 | __End__       | __Static Jekyll site powered by YAML data, with JSON index for static search__ | 
 
 #### total collection data / [bunraku-full.ipynb](https://github.com/mnyrop/bunraku-ipy/blob/master/bunraku-full.ipynb)
