@@ -23,4 +23,4 @@ The data accessible on the original PHP site (as well as the new Jekyll site) re
 
 
 ## stats:
-There is also a Jupyter notebook for generating matplotlib graphs and D3-specific/refactored JSON for data visualization. (__[bunraku-stats.ipynb]__(https://github.com/mnyrop/bunraku-ipy/blob/master/stats/bunraku-stats.ipynb))
+There is also a Jupyter notebook for generating matplotlib graphs and D3-specific/refactored JSON for data visualization. (__[bunraku-stats.ipynb](https://github.com/mnyrop/bunraku-ipy/blob/master/stats/bunraku-stats.ipynb)__)
