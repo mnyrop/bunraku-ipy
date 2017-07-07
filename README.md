@@ -19,7 +19,7 @@ Jupyter notebooks &etc. for processing data from the __[Barbara Curtis Adachi Bu
 
 #### total collection data / [bunraku-full.ipynb](https://github.com/mnyrop/bunraku-ipy/blob/master/bunraku-full.ipynb)
 
-The data accessible on the original PHP site (as well as the new Jekyll site) represents only about 60% or so of the information stored in the MySQL database. To preserve that information for future use, I used a separate Ipy notebbok to output CSVs and JSON where images/media marked 'offline' were not dropped.
+The data accessible on the original PHP site (as well as the new Jekyll site) represents only about 60% or so of the information stored in the MySQL database. To preserve that information for future use, I used a separate Ipy notebook/pipeline to output CSVs and JSON where images/media marked 'offline' were not dropped.
 
 
 ## stats:
