@@ -1,6 +1,6 @@
 # bunraku-ipy
 
-Jupyter notebooks &etc. for processing data from the Barbara Curtis Adachi Bunraku (Japanese Puppet Theater) Collection.
+Jupyter notebooks &etc. for processing data from the __[Barbara Curtis Adachi Bunraku](https://cul.github.io/bunraku-demo/)__ (Japanese Puppet Theater) Collection.
 
 ## pipeline(s):
 #### online collection data / [bunraku-online.ipynb](https://github.com/mnyrop/bunraku-ipy/blob/master/bunraku-online.ipynb)
